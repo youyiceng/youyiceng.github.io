@@ -131,12 +131,12 @@ h1, .h1 {
 }
 @media (min-width: 1200px) {
   h1, .h1 {
-    font-size: 6rem;color:#8ED0F6
+    font-size: 6rem;color:#A79BBF
   }
 }
 
 h2, .h2 {
-  font-size: calc(1.475rem + 2.7vw);
+  font-size: calc(1.475rem + 2.7vw);color:#E7EFC5
 }
 @media (min-width: 1200px) {
   h2, .h2 {
