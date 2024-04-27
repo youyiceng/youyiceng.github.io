@@ -1,5 +1,10 @@
 nav{
- background:assets/img/宥頤的小花花.jpg;
+ background:url(assets/img/宥頤的小花花.jpg);
+}
+
+
+h2{
+    background-color: #707c9b;
 }
 
 h3{
