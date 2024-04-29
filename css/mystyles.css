@@ -9,6 +9,7 @@ h1{
 .mycolor{
     color:#eddce6 !important;
 }
+
 h2{
     color: #929aad;
 }
@@ -21,11 +22,3 @@ border-1{
     border
 }
 
-p{
-    color:rgb(109, 88, 88);
-    background-color: #ccb0c9;
-    border: 2px,solid,#c2aed9e5;
-}
-.mailto{
-    color:#B0C6CE;
-}
