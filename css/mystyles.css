@@ -7,7 +7,7 @@ h1{
 }
 
 .mycolor{
-    color:#9e7070 !important;
+    color:#a6abe0 !important;
 }
 h2{
     color: #929aad;
@@ -17,3 +17,6 @@ h3{
     color:#c59dc2;
 }
 
+.border-1{
+    border-1:3px solid #949494
+}
