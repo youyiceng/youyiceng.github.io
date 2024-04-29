@@ -17,8 +17,15 @@ h3{
     color:#c59dc2;
 }
 
+border-1{
+    border
+}
+
 p{
     color:rgb(109, 88, 88);
     background-color: #ccb0c9;
     border: 2px,solid,#c2aed9e5;
+}
+.mailto{
+    color:#B0C6CE;
 }
