@@ -3,11 +3,11 @@
 }
 
 h1{
-    color:#f495cce5
+    color:#833f66
 }
 
 .mycolor{
-    color:#eddce6 !important;
+    color:#c38aab !important;
 }
 
 h2{
@@ -19,7 +19,7 @@ h3{
 }
 
 border-1{
-    border
+    border: 2px solid #c59dc2
 }
 
 .imgtest{
