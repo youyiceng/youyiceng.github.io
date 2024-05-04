@@ -18,7 +18,7 @@ h3{
     color:#c59dc2;
 }
 
-border-1{
+.border-1{
     border: 2px solid #c59dc2
 }
 
@@ -31,5 +31,5 @@ border-1{
 }
 
 .gmailtest{
-    color:#d9cf8c
+    color: #D5B9B2;
 }
