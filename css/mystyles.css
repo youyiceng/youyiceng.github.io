@@ -43,5 +43,5 @@ h3{
 }
  
 .roundborder{
-    border:1px solid red;
+    border:1px solid red !important;border-radius:10px;
 }
