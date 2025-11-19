@@ -1,0 +1,53 @@
+.bgflower{
+ background-image:url("../assets/img/宥頤的小花花.jpg");
+}
+
+h1{
+    color:#707c80
+}
+
+.mycolor{
+    color:#edc3db !important;
+}
+
+h2{
+    color: #929aad;
+}
+
+h3{
+    color:#c59dc2;
+}
+
+.border-1{
+    border: 2px solid #c59dc2
+}
+
+.imgtest{
+     width: 200px;
+}
+
+.school{
+    color:#f3d825
+}
+
+.gmailtest{
+    color: #D5B9B2;
+}
+
+.pink{
+    color: #774572;
+}
+
+.p{
+    color: #222025;
+}
+ 
+.roundborder{
+    border:1px solid rgb(169, 111, 151) !important;border-radius:10px;
+    padding: 1.5em ;
+    background:#edc3db;
+}
+
+.noto-serif-tc-regular{
+    font-family: "Noto Serif TC", serif;
+}
